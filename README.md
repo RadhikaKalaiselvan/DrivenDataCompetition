@@ -20,7 +20,6 @@ We have used the following classifiers
 5.Random Forest
 6.Logistic Regression
 7.KNN
-
 Out of which we acquire 80% accuracy using bagging and random forest.
 
 
